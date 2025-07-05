@@ -2,7 +2,7 @@
 
 This repository hosts my personal resume using **GitHub Pages** at:
 
-🔗 [Aman Dey | Resume](https://4m4nd3y.github.io/resume)
+🔗 [Aman Dey | Resume](https://4m4nd3y.github.io/resume/)
 
 ## 📄 Features
 
